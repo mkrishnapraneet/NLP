@@ -1,2 +1,2 @@
 # NLP
-Assignments and Projects fro NLP course taken in Spring 2023
+Assignments and Projects from NLP course taken in Spring 2023
